@@ -8,5 +8,5 @@ Building **Collabify** on the side - an iOS collaboration app in Swift/Xcode.
 
 **Stack:** Claude API, Python, Google Apps Script, ElevenLabs, Twilio, Slack API, Swift/Xcode
 
-andrew@silverstay.com
+andrew@silverstay.com,
 andrewmish@gmail.com
